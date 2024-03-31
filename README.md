@@ -15,6 +15,7 @@ Also the updated version automatically displays visualizations of global tempera
 
 
 ## Final Version:
+![globaltemperaturefinalversion](https://github.com/goyoju/Global_Temperatures_Visualization/assets/61122366/f5d59242-2615-4bfa-be02-856c61eb546e)
 
 
 

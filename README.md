@@ -14,9 +14,19 @@ Also the updated version automatically displays visualizations of global tempera
 - **Country:** Country name
 
 
-## Updated Version:
+## Final Version:
 
 
 
-## Failed Versions:
-First Draft:
+## Previous Versions:
+**First Version:**
+
+![firstdraftglobaltemperature](https://github.com/goyoju/Global_Temperatures_Visualization/assets/61122366/6ab48746-97c7-4116-a9c4-ff8279a91a2c)
+
+**Weakness:** The current visualization presents too much information at once, making it difficult for users to focus on specific details such as the year or individual countries. 
+
+**Solution:** To address this, we can create a horizontal bar chart displaying only the top 10 countries with the highest average temperatures. Additionally, since there isn't a significant amount of data before the 1900s, it's preferable to display data from that time onward. We should also adjust the year labels to improve the clarity of the visualization.
+
+**Second Version:**
+![seconddraftglobaltemperature](https://github.com/goyoju/Global_Temperatures_Visualization/assets/61122366/5e81c929-02e2-4828-b1b2-c37bd22e241e)
+
